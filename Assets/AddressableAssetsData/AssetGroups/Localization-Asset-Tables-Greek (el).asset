@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Greek (el)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Greek (el)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 362fad2801d934047adc9650c2593619
+  m_SerializeEntries:
+  - m_GUID: 748f18dee703c62449e3230b051fba89
+    m_Address: LanguageAssets_el
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-el
+  - m_GUID: d2e567d44f8e624499ee4338911032c5
+    m_Address: LanguageIcons_el
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-el
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d7bb221fe06885042b2e7200a73a70a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 16fdeb3e41f73aa4b9988b7404f154c1, type: 2}
+    - {fileID: 11400000, guid: c1ac1f1a069eed144a28a3ce16a454cc, type: 2}
